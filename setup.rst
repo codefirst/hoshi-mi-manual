@@ -20,8 +20,8 @@
 
     $ bundle install --path .bundle
     $ bundle exec rake assets:precompile
-    $ bundle exec rake db:migrate
     $ vi conf/database.yml
+    $ bundle exec rake db:migrate RAILS_ENV=production
 
 起動
 ~~~~~~~~~~~~~
