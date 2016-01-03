@@ -1,7 +1,7 @@
 概要
 ========
 
-`Hoshi-mi <http://www.codefirst.org/hoshi-mi/>`_ は、Heroku で動作することを重視した
+`Hoshi-mi <https://www.codefirst.org/hoshi-mi/>`_ は、Heroku で動作することを重視した
 データビジュアライゼーションツールです。
 同様のソフトウェアに GrowthForecast があります。
 
